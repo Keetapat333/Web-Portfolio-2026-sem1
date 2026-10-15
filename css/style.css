@@ -247,21 +247,6 @@ body {
   }
 }
 
-@media (max-width: 480px) {
-  .home-main {
-    padding: 30px 20px;
-  }
-  .hero-title {
-    font-size: 38px;
-  }
-  .hero-strengths {
-    gap: 18px;
-  }
-  .strength-item p {
-    font-size: 12px;
-  }
-}
-
 /*  About Content  */
 .about-main {
   width: 100%;
@@ -584,7 +569,6 @@ body {
   }
 }
 
-
 /* Skills Content */
 .skills-main {
   width: 100%;
@@ -669,8 +653,6 @@ body {
   }
 }
 
-
-
 /* Projects Content */
 .projects-main {
   width: 100%;
@@ -728,7 +710,7 @@ body {
   transition: 0.4s ease;
 }
 
-.project-card:hover  {
+.project-card:hover {
   transform: scale(1.05);
 }
 
@@ -811,7 +793,6 @@ body {
     height: 260px;
   }
 }
-
 
 /*  Footer  */
 .site-footer {
